@@ -56,6 +56,7 @@ class EduGame:
         self.current_level = level
         self.question_index = 0
         self.points = 0
+        self.previous_menu = lambda: self.create_course_menu(course)  # Save the previous menu state
         self.show_question()
 
     def show_question(self):
@@ -69,6 +70,10 @@ class EduGame:
             for option in question_data['options']:
                 btn = tk.Button(self.root, text=option, command=lambda opt=option: self.check_answer(opt))
                 btn.pack(pady=5)
+
+            back_btn = tk.Button(self.root, text="Back to Course Menu", command=self.previous_menu)
+            back_btn.pack(pady=20)
+
         else:
             self.show_result()
 
@@ -86,6 +91,9 @@ class EduGame:
 
         main_menu_btn = tk.Button(self.root, text="Main Menu", command=self.create_main_menu)
         main_menu_btn.pack(pady=10)
+
+        course_menu_btn = tk.Button(self.root, text="Back to Course Menu", command=self.previous_menu)
+        course_menu_btn.pack(pady=10)
 
     def clear_window(self):
         for widget in self.root.winfo_children():
