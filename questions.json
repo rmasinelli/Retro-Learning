@@ -1,0 +1,16 @@
+{
+    "intro_python": {
+        "level1": [
+            {
+                "question": "What is the output of print(2 + 2)?",
+                "options": ["2", "4", "22"],
+                "answer": "4"
+            },
+            {
+                "question": "Which of the following is a data type in Python?",
+                "options": ["String", "Integer", "List", "All of the above"],
+                "answer": "All of the above"
+            }
+        ]
+    }
+}
