@@ -1,7 +1,6 @@
+# ui.py
 import tkinter as tk
-from tkinter import messagebox
 import json
-import random
 
 class EduGame:
     def __init__(self, root):
@@ -20,13 +19,37 @@ class EduGame:
         title = tk.Label(self.root, text="Educational Game", font=("Arial", 24))
         title.pack(pady=20)
 
-        intro_python_btn = tk.Button(self.root, text="Intro to Python", command=lambda: self.start_game('intro_python', 'level1'))
+        # Add buttons for different courses
+        intro_python_btn = tk.Button(self.root, text="Intro to Python", command=lambda: self.create_course_menu('intro_python'))
         intro_python_btn.pack(pady=10)
 
-        # Add buttons for other courses here...
+        comptia_core1_btn = tk.Button(self.root, text="CompTIA Core 1", command=lambda: self.create_course_menu('comptia_core1'))
+        comptia_core1_btn.pack(pady=10)
+
+        comptia_core2_btn = tk.Button(self.root, text="CompTIA Core 2", command=lambda: self.create_course_menu('comptia_core2'))
+        comptia_core2_btn.pack(pady=10)
+
+        server_class_btn = tk.Button(self.root, text="Server Class", command=lambda: self.create_course_menu('server_class'))
+        server_class_btn.pack(pady=10)
 
         quit_btn = tk.Button(self.root, text="Quit", command=self.root.quit)
         quit_btn.pack(pady=10)
+
+    def create_course_menu(self, course):
+        self.clear_window()
+        self.current_course = course
+        
+        level1_btn = tk.Button(self.root, text="Level 1", command=lambda: self.start_game(course, 'level1'))
+        level1_btn.pack(pady=10)
+
+        level2_btn = tk.Button(self.root, text="Level 2", command=lambda: self.start_game(course, 'level2'))
+        level2_btn.pack(pady=10)
+
+        level3_btn = tk.Button(self.root, text="Level 3", command=lambda: self.start_game(course, 'level3'))
+        level3_btn.pack(pady=10)
+
+        back_btn = tk.Button(self.root, text="Back to Main Menu", command=self.create_main_menu)
+        back_btn.pack(pady=10)
 
     def start_game(self, course, level):
         self.current_course = course
