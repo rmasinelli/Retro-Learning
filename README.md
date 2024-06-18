@@ -1,2 +1,2 @@
 # Retro-Learning
-A learnign with python game.
+A learning with python game.
