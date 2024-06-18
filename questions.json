@@ -202,7 +202,7 @@
                 "question": "How do you handle exceptions in Python?",
                 "options": ["try...except", "try...catch", "try...handle"],
                 "answer": "try...except"
-            }
+            },
             "level3": [
             {
                 "question": "What is the purpose of the 'with' statement in Python?",
