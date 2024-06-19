@@ -387,4 +387,420 @@
             }
         ]
     }
+},
+{
+    "comptia_core1": {
+        "level1": [
+            {
+                "question": "What component is responsible for processing data in a computer?",
+                "options": ["CPU", "RAM", "Hard Drive", "Motherboard"],
+                "answer": "CPU"
+            },
+            {
+                "question": "Which of the following is a type of volatile memory?",
+                "options": ["RAM", "SSD", "HDD", "CD-ROM"],
+                "answer": "RAM"
+            },
+            {
+                "question": "What does GPU stand for?",
+                "options": ["General Processing Unit", "Graphics Processing Unit", "Graphical Power Unit", "Graphics Power Utility"],
+                "answer": "Graphics Processing Unit"
+            },
+            {
+                "question": "Which device is used to input data into a computer?",
+                "options": ["Monitor", "Keyboard", "Printer", "Router"],
+                "answer": "Keyboard"
+            },
+            {
+                "question": "What type of storage device uses magnetic platters to store data?",
+                "options": ["HDD", "SSD", "USB Drive", "DVD"],
+                "answer": "HDD"
+            },
+            {
+                "question": "Which of the following ports is used for connecting a monitor?",
+                "options": ["USB", "HDMI", "Ethernet", "Audio Jack"],
+                "answer": "HDMI"
+            },
+            {
+                "question": "What does BIOS stand for?",
+                "options": ["Basic Input/Output System", "Binary Integrated Operating System", "Basic Integrated Output System", "Basic Input/Operating System"],
+                "answer": "Basic Input/Output System"
+            },
+            {
+                "question": "What does the acronym 'RAM' stand for?",
+                "options": ["Random Access Memory", "Read Access Memory", "Rapid Access Memory", "Run-time Access Memory"],
+                "answer": "Random Access Memory"
+            },
+            {
+                "question": "Which component is known as the 'brain' of the computer?",
+                "options": ["CPU", "RAM", "GPU", "Motherboard"],
+                "answer": "CPU"
+            },
+            {
+                "question": "Which type of network cable uses RJ-45 connectors?",
+                "options": ["Ethernet", "Coaxial", "Fiber Optic", "USB"],
+                "answer": "Ethernet"
+            },
+            {
+                "question": "Which part of the computer is responsible for cooling the CPU?",
+                "options": ["Power Supply", "Case Fan", "Heat Sink", "Motherboard"],
+                "answer": "Heat Sink"
+            },
+            {
+                "question": "What does SSD stand for?",
+                "options": ["Solid State Drive", "Single State Drive", "Secure Storage Device", "Static Storage Device"],
+                "answer": "Solid State Drive"
+            },
+            {
+                "question": "Which of the following is an example of an output device?",
+                "options": ["Mouse", "Keyboard", "Monitor", "Microphone"],
+                "answer": "Monitor"
+            },
+            {
+                "question": "What component provides power to the computer?",
+                "options": ["Motherboard", "CPU", "Power Supply", "RAM"],
+                "answer": "Power Supply"
+            },
+            {
+                "question": "Which of the following is used to permanently store data?",
+                "options": ["RAM", "Cache", "Hard Drive", "CPU"],
+                "answer": "Hard Drive"
+            },
+            {
+                "question": "What type of memory is used for temporary data storage while the computer is running?",
+                "options": ["RAM", "ROM", "Hard Drive", "SSD"],
+                "answer": "RAM"
+            },
+            {
+                "question": "Which component is used to connect to a wireless network?",
+                "options": ["Ethernet Adapter", "Wireless NIC", "Modem", "Router"],
+                "answer": "Wireless NIC"
+            },
+            {
+                "question": "What is the main function of a motherboard?",
+                "options": ["To house the CPU and RAM", "To store data permanently", "To provide power to the system", "To connect peripheral devices"],
+                "answer": "To house the CPU and RAM"
+            },
+            {
+                "question": "Which of the following is a function of the CPU?",
+                "options": ["Data processing", "Data storage", "Power management", "Input/output handling"],
+                "answer": "Data processing"
+            },
+            {
+                "question": "What type of connector is typically used for a mouse and keyboard?",
+                "options": ["PS/2", "USB", "HDMI", "Ethernet"],
+                "answer": "USB"
+            }
+        ]
+    }
+}
+{
+    "comptia_core1": {
+        "level1": [
+            {
+                "question": "Which component is responsible for executing instructions in a computer?",
+                "options": ["CPU", "RAM", "Hard Drive", "GPU"],
+                "answer": "CPU"
+            },
+            {
+                "question": "What does RAM stand for?",
+                "options": ["Random Access Memory", "Read Access Memory", "Random Allocation Memory", "Read Allocation Memory"],
+                "answer": "Random Access Memory"
+            },
+            {
+                "question": "What is the main function of the motherboard?",
+                "options": ["To provide power to the computer", "To connect all the components together", "To store data", "To display graphics"],
+                "answer": "To connect all the components together"
+            },
+            {
+                "question": "Which storage device uses magnetic disks to store data?",
+                "options": ["SSD", "Hard Drive", "RAM", "USB Flash Drive"],
+                "answer": "Hard Drive"
+            },
+            {
+                "question": "What is the purpose of a power supply unit (PSU)?",
+                "options": ["To provide power to the computer components", "To store data", "To display graphics", "To process instructions"],
+                "answer": "To provide power to the computer components"
+            },
+            {
+                "question": "Which port is commonly used for connecting a monitor to a computer?",
+                "options": ["USB", "HDMI", "Ethernet", "Serial"],
+                "answer": "HDMI"
+            },
+            {
+                "question": "What does BIOS stand for?",
+                "options": ["Basic Input Output System", "Basic Integrated Operating System", "Binary Input Output System", "Basic Input Operating System"],
+                "answer": "Basic Input Output System"
+            },
+            {
+                "question": "Which component stores the operating system and applications?",
+                "options": ["CPU", "RAM", "Hard Drive", "GPU"],
+                "answer": "Hard Drive"
+            },
+            {
+                "question": "What is the purpose of thermal paste?",
+                "options": ["To transfer heat from the CPU to the heatsink", "To cool down the RAM", "To provide power to the CPU", "To increase internet speed"],
+                "answer": "To transfer heat from the CPU to the heatsink"
+            },
+            {
+                "question": "Which type of memory is non-volatile and used for permanent data storage?",
+                "options": ["RAM", "Cache", "Hard Drive", "ROM"],
+                "answer": "Hard Drive"
+            },
+            {
+                "question": "What is the function of a GPU?",
+                "options": ["To render graphics", "To process instructions", "To store data", "To connect peripherals"],
+                "answer": "To render graphics"
+            },
+            {
+                "question": "Which device is used to convert digital signals to analog signals for transmission over a telephone line?",
+                "options": ["Router", "Modem", "Switch", "Hub"],
+                "answer": "Modem"
+            },
+            {
+                "question": "What is the primary function of a network interface card (NIC)?",
+                "options": ["To connect a computer to a network", "To store data", "To render graphics", "To process instructions"],
+                "answer": "To connect a computer to a network"
+            },
+            {
+                "question": "Which type of connector is used for Ethernet cables?",
+                "options": ["RJ11", "RJ45", "USB", "HDMI"],
+                "answer": "RJ45"
+            },
+            {
+                "question": "What is the purpose of a surge protector?",
+                "options": ["To protect electronic devices from power surges", "To increase internet speed", "To provide backup power", "To store data"],
+                "answer": "To protect electronic devices from power surges"
+            },
+            {
+                "question": "Which type of memory is used to store the BIOS settings?",
+                "options": ["RAM", "ROM", "Cache", "Hard Drive"],
+                "answer": "ROM"
+            },
+            {
+                "question": "What is the primary purpose of an Uninterruptible Power Supply (UPS)?",
+                "options": ["To provide backup power during an outage", "To store data", "To increase internet speed", "To render graphics"],
+                "answer": "To provide backup power during an outage"
+            },
+            {
+                "question": "Which component is known as the brain of the computer?",
+                "options": ["CPU", "RAM", "Hard Drive", "Motherboard"],
+                "answer": "CPU"
+            },
+            {
+                "question": "What does SSD stand for?",
+                "options": ["Solid State Drive", "Secure Storage Device", "Standard Storage Disk", "System Storage Drive"],
+                "answer": "Solid State Drive"
+            },
+            {
+                "question": "Which type of cable is commonly used to connect a printer to a computer?",
+                "options": ["Ethernet", "USB", "HDMI", "VGA"],
+                "answer": "USB"
+            }
+        ],
+                "level2": [
+            {
+                "question": "Which command is used to check the IP configuration of a network interface on Windows?",
+                "options": ["ipconfig", "ifconfig", "ping", "netstat"],
+                "answer": "ipconfig"
+            },
+            {
+                "question": "What is the maximum cable length for a Cat5e Ethernet cable?",
+                "options": ["100 meters", "50 meters", "200 meters", "500 meters"],
+                "answer": "100 meters"
+            },
+            {
+                "question": "Which RAID level provides redundancy and improves performance by striping data across multiple disks?",
+                "options": ["RAID 0", "RAID 1", "RAID 5", "RAID 10"],
+                "answer": "RAID 5"
+            },
+            {
+                "question": "What is the primary function of a firewall?",
+                "options": ["To filter and block unauthorized network traffic", "To store data", "To increase internet speed", "To render graphics"],
+                "answer": "To filter and block unauthorized network traffic"
+            },
+            {
+                "question": "Which protocol is used to securely transfer files over a network?",
+                "options": ["FTP", "HTTP", "SFTP", "SMTP"],
+                "answer": "SFTP"
+            },
+            {
+                "question": "What is the purpose of DNS?",
+                "options": ["To translate domain names into IP addresses", "To store website data", "To secure network traffic", "To provide internet access"],
+                "answer": "To translate domain names into IP addresses"
+            },
+            {
+                "question": "Which device is used to connect multiple networks together?",
+                "options": ["Switch", "Router", "Hub", "Modem"],
+                "answer": "Router"
+            },
+            {
+                "question": "What is the difference between a hub and a switch?",
+                "options": ["A hub broadcasts data to all devices; a switch sends data to the correct device", "A hub is faster than a switch", "A hub is used in wireless networks; a switch is used in wired networks", "A hub is more secure than a switch"],
+                "answer": "A hub broadcasts data to all devices; a switch sends data to the correct device"
+            },
+            {
+                "question": "Which type of network topology has a central hub to which all devices are connected?",
+                "options": ["Star", "Bus", "Ring", "Mesh"],
+                "answer": "Star"
+            },
+            {
+                "question": "What is the function of DHCP?",
+                "options": ["To assign IP addresses automatically to devices on a network", "To provide internet access", "To secure network traffic", "To store website data"],
+                "answer": "To assign IP addresses automatically to devices on a network"
+            },
+            {
+                "question": "Which command is used to test the reachability of a host on a network?",
+                "options": ["ping", "tracert", "ipconfig", "nslookup"],
+                "answer": "ping"
+            },
+            {
+                "question": "What is the purpose of an IP address?",
+                "options": ["To identify a device on a network", "To store data", "To increase internet speed", "To render graphics"],
+                "answer": "To identify a device on a network"
+            },
+            {
+                "question": "What is the function of an access point in a wireless network?",
+                "options": ["To provide wireless connectivity to devices", "To store data", "To render graphics", "To secure network traffic"],
+                "answer": "To provide wireless connectivity to devices"
+            },
+            {
+                "question": "What does SSID stand for in the context of wireless networking?",
+                "options": ["Service Set Identifier", "Secure System ID", "Simple Server ID", "Standard Signal Identifier"],
+                "answer": "Service Set Identifier"
+            },
+            {
+                "question": "Which type of network cable uses light to transmit data?",
+                "options": ["Coaxial", "Twisted pair", "Fiber optic", "Ethernet"],
+                "answer": "Fiber optic"
+            },
+            {
+                "question": "What is the purpose of a proxy server?”,
+                “options”: [“To act as an intermediary between a client and a server”, “To store website data”, “To secure network traffic”, “To increase internet speed”],
+                “answer”: “To act as an intermediary between a client and a server”
+                },
+                {
+                “question”: “What does HTTP stand for?”,
+                “options”: [“Hypertext Transfer Protocol”, “High Transmission Transport Protocol”, “Hyperlink Text Transport Protocol”, “High Transfer Text Protocol”],
+                “answer”: “Hypertext Transfer Protocol”
+                },
+                {
+                “question”: “Which command is used to display the current network connections and listening ports?”,
+                “options”: [“netstat”, “ping”, “ipconfig”, “tracert”],
+                “answer”: “netstat”
+                },
+                {
+                “question”: “What is the function of a network switch?”,
+                “options”: [“To connect devices and manage data traffic within a network”, “To store data”, “To provide internet access”, “To secure network traffic”],
+                “answer”: “To connect devices and manage data traffic within a network”
+                },
+                {
+                “question”: “Which protocol is used to retrieve email from a mail server?”,
+                “options”: [“POP3”, “SMTP”, “HTTP”, “FTP”],
+                “answer”: “POP3”
+                }
+                ],
+        "level3": [
+            {
+                "question": "What is the function of a subnet mask in IP networking?",
+                "options": ["To divide an IP address into network and host portions", "To secure network traffic", "To provide backup power", "To store data"],
+                "answer": "To divide an IP address into network and host portions"
+            },
+            {
+                "question": "Which type of attack involves sending a flood of packets to disrupt services on a network?",
+                "options": ["DDoS attack", "Phishing", "MITM attack", "SQL injection"],
+                "answer": "DDoS attack"
+            },
+            {
+                "question": "What is the purpose of a VLAN in a network?",
+                "options": ["To segment a network into separate, isolated groups", "To provide internet access", "To secure network traffic", "To store data"],
+                "answer": "To segment a network into separate, isolated groups"
+            },
+            {
+                "question": "Which command can be used to display the routing table on a Linux system?",
+                "options": ["route", "ping", "tracert", "netstat"],
+                "answer": "route"
+            },
+            {
+                "question": "What does NAT stand for and what is its primary purpose?",
+                "options": ["Network Address Translation; to map private IP addresses to public IP addresses", "Network Access Translation; to secure network access", "Network Allocation Table; to allocate network resources", "Network Address Table; to store IP addresses"],
+                "answer": "Network Address Translation; to map private IP addresses to public IP addresses"
+            },
+            {
+                "question": "Which command is used to trace the route packets take to a destination?",
+                "options": ["tracert", "ping", "netstat", "ipconfig"],
+                "answer": "tracert"
+            },
+            {
+                "question": "What is the primary purpose of a VPN?",
+                "options": ["To create a secure connection over an insecure network", "To store data", "To increase internet speed", "To provide internet access"],
+                "answer": "To create a secure connection over an insecure network"
+            },
+            {
+                "question": "Which type of network uses IPsec for secure communication over public networks?",
+                "options": ["VPN", "LAN", "WAN", "SAN"],
+                "answer": "VPN"
+            },
+            {
+                "question": "What is the primary function of an IDS (Intrusion Detection System)?",
+                "options": ["To monitor and detect unauthorized access or attacks", "To provide internet access", "To store data", "To increase network speed"],
+                "answer": "To monitor and detect unauthorized access or attacks"
+            },
+            {
+                "question": "What does the term 'bandwidth' refer to in networking?",
+                "options": ["The maximum data transfer rate of a network", "The number of connected devices", "The amount of stored data", "The speed of network installation"],
+                "answer": "The maximum data transfer rate of a network"
+            },
+            {
+                "question": "What is the purpose of a DMZ in network security?",
+                "options": ["To create a buffer zone between a private network and the internet", "To store data", "To increase internet speed", "To provide backup power"],
+                "answer": "To create a buffer zone between a private network and the internet"
+            },
+            {
+                "question": "Which protocol is used for remote command-line access to a network device?",
+                "options": ["SSH", "FTP", "HTTP", "POP3"],
+                "answer": "SSH"
+            },
+            {
+                "question": "What does the term 'latency' refer to in a network?",
+                "options": ["The delay before a transfer of data begins following an instruction", "The speed of data transfer", "The size of data packets", "The number of connected devices"],
+                "answer": "The delay before a transfer of data begins following an instruction"
+            },
+            {
+                "question": "What is the purpose of a load balancer in a network?",
+                "options": ["To distribute network traffic across multiple servers", "To store data", "To provide internet access", "To secure network traffic"],
+                "answer": "To distribute network traffic across multiple servers"
+            },
+            {
+                "question": "Which type of cable is used for high-speed internet connections and is resistant to electromagnetic interference?",
+                "options": ["Fiber optic", "Coaxial", "Twisted pair", "USB"],
+                "answer": "Fiber optic"
+            },
+            {
+                "question": "What is the function of a port number in networking?",
+                "options": ["To identify specific processes or services on a device", "To store data", "To increase internet speed", "To provide backup power"],
+                "answer": "To identify specific processes or services on a device"
+            },
+            {
+                "question": "Which command is used to display the ARP table on a Windows system?",
+                "options": ["arp -a", "ipconfig", "netstat", "ping"],
+                "answer": "arp -a"
+            },
+            {
+                "question": "What is the purpose of the SSL/TLS protocol?",
+                "options": ["To secure data transmission over a network", "To store data", "To increase internet speed", "To render graphics"],
+                "answer": "To secure data transmission over a network"
+            },
+            {
+                "question": "Which type of malware encrypts data and demands a ransom for decryption?",
+                "options": ["Ransomware", "Spyware", "Adware", "Rootkit"],
+                "answer": "Ransomware"
+            },
+            {
+                "question": "What is the primary purpose of a backup?",
+                "options": ["To protect data against loss or corruption", "To store data temporarily", "To increase network speed", "To provide internet access"],
+                "answer": "To protect data against loss or corruption"
+            }
+        ]
+    }
 }
